@@ -28,7 +28,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: test
-        path: SharpUserIP\SharpUserIP\SharpUserIP\bin\Debug\SharpUserIP.exe
+        path: D:\a\SharpUserIP\SharpUserIP\SharpUserIP\bin\Debug\SharpUserIP.exe
 
 
 
